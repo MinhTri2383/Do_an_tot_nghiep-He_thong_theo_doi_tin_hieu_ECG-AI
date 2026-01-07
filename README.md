@@ -1,1 +1,0 @@
-# Do_an_tot_nghiep-He_thong_theo_doi_tin_hieu_ECG-AI
