@@ -125,5 +125,6 @@ Mọi kết quả phân tích **không thay thế ý kiến của bác sĩ hoặ
 ---
 
 ## 10. Tác giả
-- Người thực hiện: *(điền tên của bạn)*
+- Người thực hiện: Nguyễn Minh Trí, Trần Phương My.
 - Lĩnh vực: Xử lý tín hiệu – Hệ thống nhúng – AI
+
